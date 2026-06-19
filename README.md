@@ -4,6 +4,7 @@ A UiPath RPA project that automates the full patient appointment booking pipelin
 
 I built this to solve a pretty real problem: clinic staff were manually going through form responses, checking NRIC images, booking slots on a website, and emailing patients one by one. This bot replaces that entire loop.
 
+Demo Link: https://www.youtube.com/watch?v=GmIgFYWrceo
 ---
 
 ## What It Does
